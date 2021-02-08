@@ -1,0 +1,5 @@
+org\acme\rest\resource\CountriesResource.class
+org\acme\rest\service\Service.class
+org\acme\rest\client\Client.class
+org\acme\rest\model\Currency.class
+org\acme\rest\model\Country.class
